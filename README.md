@@ -96,18 +96,18 @@ I enjoy turning ideas into production-ready software, improving system architect
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📊 AgileIntPPMTool</h3>
+      <h3 align="center">💬 ChattingApplication</h3>
       <p align="center">
-        <strong>Agile project management tool</strong><br>
-        A product management and planning project focused on workflow and team coordination.
+        <strong>Real-time messaging application</strong><br>
+        A Java-based chat application featuring real-time communication and user management.
       </p>
       <p align="center">
-        <a href="https://github.com/sanjeet98/AgileIntPPMTool"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github" alt="View Repo" /></a>
+        <a href="https://github.com/sanjeet98/ChattingApplication"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github" alt="View Repo" /></a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/Agile-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Planning-3B82F6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" />
+        <img src="https://img.shields.io/badge/Backend-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Messaging-FF6B6B?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -118,7 +118,7 @@ I enjoy turning ideas into production-ready software, improving system architect
 - [ShiftLint](https://github.com/sanjeet98/ShiftLint) — security and leak detection automation
 - [lawnfin](https://github.com/sanjeet98/lawnfin) — legal + financial information platform
 - [AgentOS-V3](https://github.com/sanjeet98/AgentOS-V3) — AI and automation project
-- [AgileIntPPMTool](https://github.com/sanjeet98/AgileIntPPMTool) — agile planning and project management app
+- [ChattingApplication](https://github.com/sanjeet98/ChattingApplication) — real-time messaging system
 - [OnlineMedicineShoppingSystem](https://github.com/sanjeet98/OnlineMedicineShoppingSystem) — healthcare commerce experience
 - [provider-rider](https://github.com/sanjeet98/provider-rider) — TypeScript work
 - [buddy](https://github.com/sanjeet98/buddy) — TypeScript application
@@ -134,6 +134,22 @@ I enjoy turning ideas into production-ready software, improving system architect
 - [farmapibackend](https://github.com/sanjeet98/farmapibackend)
 
 These projects reflect my interest in backend architecture, service boundaries, API orchestration, and scalable application design.
+
+---
+
+## ⭐ Starred Repositories
+
+I actively follow and learn from the open-source community. Here are some repositories I find valuable and star for reference:
+
+- [Kubernetes](https://github.com/kubernetes/kubernetes) — Production-grade container orchestration
+- [Docker](https://github.com/moby/moby) — Container platform and ecosystem
+- [Spring Framework](https://github.com/spring-projects/spring-framework) — Comprehensive Java framework
+- [React](https://github.com/facebook/react) — UI library and ecosystem
+- [Node.js](https://github.com/nodejs/node) — JavaScript runtime
+- [PostgreSQL](https://github.com/postgres/postgres) — Advanced relational database
+- [Axios](https://github.com/axios/axios) — HTTP client library
+
+Following best practices from leading open-source projects helps me stay updated with industry standards and architectural patterns.
 
 ---
 
