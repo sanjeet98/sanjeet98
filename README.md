@@ -235,19 +235,12 @@ Following both personal and industry-leading repositories keeps my work aligned 
 
 ---
 
-## 📊 GitHub Statistics & Metrics
+## 📊 Activity & Contribution Overview
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanjeet98&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet98&theme=tokyonight&layout=compact&hide_border=true&card_width=250" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjeet98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeet98&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/sanjeet98">
+    <img src="https://streak-stats.demolab.com?user=sanjeet98&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  </a>
 </div>
 
 ---
