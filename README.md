@@ -164,11 +164,23 @@ Following best practices from leading open-source projects helps me stay updated
 
 ## Current Focus
 
-- Building reliable backend systems and APIs
-- Exploring secure engineering and automation
-- Improving product thinking and architecture clarity
-- Shipping practical full-stack experiences
-- Learning and applying cloud-native and system design principles
+My active development is concentrated on three key projects that showcase different aspects of modern software engineering:
+
+### 🤖 **AgentOS-V3** — AI & Automation
+Building sophisticated AI-powered automation workflows using Python. Exploring agent-based architectures, intelligent task orchestration, and layered system design patterns for handling complex automation scenarios.
+
+### 🛡️ **ShiftLint** — Security & Developer Tooling
+Developing an enterprise-grade security automation platform focused on credential leak detection and secure development practices. Building tooling that integrates seamlessly into developer workflows at the commit and push boundaries.
+
+### 📘 **lawnfin** — Product Engineering
+Creating a comprehensive legal and financial guidance platform that bridges the gap between complex information and everyday users. Focused on product thinking, user experience, and practical full-stack implementation with React and backend services.
+
+**Common themes across these projects:**
+- Automation and intelligent systems
+- Security-first development practices
+- Product-focused engineering
+- Scalable architecture and clean code
+- Real-world problem solving
 
 ---
 
