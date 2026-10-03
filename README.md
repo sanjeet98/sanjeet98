@@ -49,6 +49,31 @@ I enjoy turning ideas into production-ready software, improving system architect
 
 ---
 
+## 🤖 AI Agents & LLM Platforms
+
+I actively work with and build on these AI agent frameworks and LLM platforms:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-Anthropic-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPT--4o-OpenAI-00C2A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini%202.0%20Flash-Google-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Grok--2-xAI-FF5733?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-Agent%20Framework-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-7B68EE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Groq%20Llama%203.3-Inference-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-87CEEB?style=flat-square" />
+</p>
+
+### Platforms & Services
+- **LLM Routing**: Multi-provider intelligent fallback and cost optimization
+- **Vector Databases**: pgvector (Supabase), semantic memory systems
+- **Agent Deployment**: FastAPI, Docker, Kubernetes
+- **Observability**: OpenTelemetry, real-time tracing and telemetry
+- **Security**: DLP scanning, prompt injection defense, SSRF guards, Role-based access control
+- **Workflow Orchestration**: Redis Streams, DAG-based task scheduling
+
+---
+
 ## Featured Projects
 
 <table>
@@ -175,11 +200,27 @@ Following both personal and industry-leading repositories keeps my work aligned 
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjeet98&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet98&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanjeet98&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet98&theme=tokyonight&layout=compact&hide_border=true&card_width=250" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjeet98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanjeet98&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -189,7 +230,7 @@ Following both personal and industry-leading repositories keeps my work aligned 
 My active development is concentrated on three key projects that showcase different aspects of modern software engineering:
 
 ### 🤖 **AgentOS-V2.0** — AI Agent Infrastructure & Governance
-Building secure, multi-layer autonomous systems with workflow orchestration, LLM routing, pgvector memory, cryptographic audit trails, tool gating, wallet governance, and production-grade agent safety.
+Building secure, multi-layer autonomous systems with workflow orchestration, LLM routing, pgvector memory, cryptographic audit trails, tool gating, wallet governance, and production-grade agent safety. Supporting multi-agent collaboration, swarm delegation, and enterprise governance.
 
 ### 🛡️ **ShiftLint** — Security & Developer Tooling
 Developing an enterprise-grade security automation platform focused on credential leak detection and secure development practices. Building tooling that integrates seamlessly into developer workflows.
@@ -207,7 +248,7 @@ Creating a comprehensive legal and financial guidance platform that bridges the 
 
 ---
 
-## Connect
+## 🔗 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjeetkaul"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
