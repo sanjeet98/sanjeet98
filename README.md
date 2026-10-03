@@ -137,19 +137,30 @@ These projects reflect my interest in backend architecture, service boundaries, 
 
 ---
 
-## ⭐ Starred Repositories
+## ⭐ Starred & Key Repositories
 
-I actively follow and learn from the open-source community. Here are some repositories I find valuable and star for reference:
+I keep a close eye on both my own projects and high-quality open-source work that shapes my engineering decisions.
 
+### Personal repos I follow and build on
+- [ShiftLint](https://github.com/sanjeet98/ShiftLint) — Security automation and leak detection
+- [lawnfin](https://github.com/sanjeet98/lawnfin) — Legal + financial information platform
+- [AgentOS-V3](https://github.com/sanjeet98/AgentOS-V3) — AI automation and layered architecture
+- [ChattingApplication](https://github.com/sanjeet98/ChattingApplication) — Java messaging application
+- [OnlineMedicineShoppingSystem](https://github.com/sanjeet98/OnlineMedicineShoppingSystem) — Full-stack healthcare commerce project
+- [provider-rider](https://github.com/sanjeet98/provider-rider) — TypeScript application work
+- [buddy](https://github.com/sanjeet98/buddy) — TypeScript project
+- [insure-intel](https://github.com/sanjeet98/insure-intel) — TypeScript product initiative
+
+### External repos I value
 - [Kubernetes](https://github.com/kubernetes/kubernetes) — Production-grade container orchestration
 - [Docker](https://github.com/moby/moby) — Container platform and ecosystem
-- [Spring Framework](https://github.com/spring-projects/spring-framework) — Comprehensive Java framework
-- [React](https://github.com/facebook/react) — UI library and ecosystem
-- [Node.js](https://github.com/nodejs/node) — JavaScript runtime
-- [PostgreSQL](https://github.com/postgres/postgres) — Advanced relational database
-- [Axios](https://github.com/axios/axios) — HTTP client library
+- [Spring Framework](https://github.com/spring-projects/spring-framework) — Java ecosystem backbone
+- [React](https://github.com/facebook/react) — UI development and front-end innovation
+- [Node.js](https://github.com/nodejs/node) — JavaScript runtime and platform
+- [PostgreSQL](https://github.com/postgres/postgres) — Robust relational database systems
+- [Axios](https://github.com/axios/axios) — HTTP client tooling
 
-Following best practices from leading open-source projects helps me stay updated with industry standards and architectural patterns.
+Following both personal and industry-leading repositories keeps my work aligned with practical product development and modern engineering standards.
 
 ---
 
