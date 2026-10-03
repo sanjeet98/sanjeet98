@@ -74,6 +74,41 @@ I actively work with and build on these AI agent frameworks and LLM platforms:
 
 ---
 
+## 🚀 Live Project Sites
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h3>🤖 AgentOS</h3>
+        <p><strong>AI Agent OS</strong></p>
+        <p>Enterprise agent infrastructure</p>
+        <a href="https://agentos-prod.netlify.app/">
+          <img src="https://img.shields.io/badge/Visit%20Live%20Site-AgentOS-007AFF?style=flat-square&logo=netlify" />
+        </a>
+      </td>
+      <td width="33%">
+        <h3>📘 lawnfin</h3>
+        <p><strong>Legal & Finance Platform</strong></p>
+        <p>Financial guidance made simple</p>
+        <a href="https://github.com/sanjeet98/lawnfin">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-181717?style=flat-square&logo=github" />
+        </a>
+      </td>
+      <td width="33%">
+        <h3>🛡️ ShiftLint</h3>
+        <p><strong>Security Automation</strong></p>
+        <p>Credential leak detection</p>
+        <a href="https://github.com/sanjeet98/ShiftLint">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-181717?style=flat-square&logo=github" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -203,16 +238,8 @@ Following both personal and industry-leading repositories keeps my work aligned 
 ## 📊 GitHub Statistics & Metrics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanjeet98&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet98&theme=tokyonight&layout=compact&hide_border=true&card_width=250" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanjeet98&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet98&theme=tokyonight&layout=compact&hide_border=true&card_width=250" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -220,7 +247,7 @@ Following both personal and industry-leading repositories keeps my work aligned 
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanjeet98&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeet98&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
