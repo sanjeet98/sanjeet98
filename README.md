@@ -1,7 +1,7 @@
 # Sanjeet Kaul
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Engineer;Full-Stack+Builder;AI+Agent+Systems;Python+%7C+TypeScript+%7C+Go;Building+Secure+Scalable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Engineer;Full-Stack+Builder;AI+Agent+Systems+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://twitter.com/kaulsanjeet"><img src="https://img.shields.io/badge/Twitter-%40kaulsanjeet-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 </p>
 
-I am a software developer focused on building practical, scalable, and maintainable systems. My work spans backend engineering, API design, full-stack product development, AI agent infrastructure, and automation-focused platform work.
+I am a software developer focused on building practical, scalable, and maintainable systems. My work spans backend engineering, API design, full-stack product development, AI agent infrastructure, and developer tooling.
 
 I enjoy turning ideas into production-ready software, improving system architecture, and building tools that solve real problems.
 
@@ -235,25 +235,15 @@ Following both personal and industry-leading repositories keeps my work aligned 
 
 ---
 
-## 📊 Activity & Contribution Overview
-
-<div align="center">
-  <a href="https://github.com/sanjeet98">
-    <img src="https://streak-stats.demolab.com?user=sanjeet98&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-  </a>
-</div>
-
----
-
 ## Current Focus
 
 My active development is concentrated on three key projects that showcase different aspects of modern software engineering:
 
 ### 🤖 **AgentOS-V2.0** — AI Agent Infrastructure & Governance
-Building secure, multi-layer autonomous systems with workflow orchestration, LLM routing, pgvector memory, cryptographic audit trails, tool gating, wallet governance, and production-grade agent safety. Supporting multi-agent collaboration, swarm delegation, and enterprise governance.
+Building secure, multi-layer autonomous systems with workflow orchestration, LLM routing, pgvector memory, cryptographic audit trails, tool gating, wallet governance, and production-grade agent systems.
 
 ### 🛡️ **ShiftLint** — Security & Developer Tooling
-Developing an enterprise-grade security automation platform focused on credential leak detection and secure development practices. Building tooling that integrates seamlessly into developer workflows.
+Developing an enterprise-grade security automation platform focused on credential leak detection and secure development practices. Building tooling that integrates seamlessly into developer workflows to reduce risk and improve accountability.
 
 ### 📘 **lawnfin** — Product Engineering
 Creating a comprehensive legal and financial guidance platform that bridges the gap between complex information and everyday users. Focused on product thinking, user experience, and practical full-stack implementation.
